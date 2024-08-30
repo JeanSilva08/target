@@ -1,0 +1,15 @@
+{
+    "faturamento_diario": [
+        {"dia": 1, "faturamento": 1500},
+        {"dia": 2, "faturamento": 500},
+        {"dia": 3, "faturamento": 1200},
+        {"dia": 4, "faturamento": 385},
+        {"dia": 5, "faturamento": 2000},
+        {"dia": 6, "faturamento": 250},
+        {"dia": 7, "faturamento": 1800},
+        {"dia": 8, "faturamento": 750},
+        {"dia": 9, "faturamento": 2000},
+        {"dia": 10, "faturamento": 1500}
+
+    ]
+}
